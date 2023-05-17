@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - GHQuotationModule (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - GHQuotationModule (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  GHQuotationModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  GHQuotationModule: bf9966d82ff501909b1c515eaa178fc29b43bd10
+
+PODFILE CHECKSUM: 0b60690ae936b4ab49645dcd4f9786a674d0c4c7
+
+COCOAPODS: 1.12.1

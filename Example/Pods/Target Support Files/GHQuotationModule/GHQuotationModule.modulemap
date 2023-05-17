@@ -1,0 +1,6 @@
+framework module GHQuotationModule {
+  umbrella header "GHQuotationModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

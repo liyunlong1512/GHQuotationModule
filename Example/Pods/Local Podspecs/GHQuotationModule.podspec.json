@@ -1,0 +1,22 @@
+{
+  "name": "GHQuotationModule",
+  "version": "0.1.0",
+  "summary": "A short description of GHQuotationModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yunlong.li/GHQuotationModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yunlong.li": "yunlong.li@fargowealth.com.hk"
+  },
+  "source": {
+    "git": "https://github.com/yunlong.li/GHQuotationModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GHQuotationModule/Classes/**/*"
+}

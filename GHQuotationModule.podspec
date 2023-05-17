@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yunlong.li/GHQuotationModule'
+  s.homepage         = 'https://github.com/liyunlong1512/GHQuotationModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yunlong.li' => 'yunlong.li@fargowealth.com.hk' }
-  s.source           = { :git => 'https://github.com/yunlong.li/GHQuotationModule.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liyunlong1512/GHQuotationModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'GHQuotationModule/Classes/**/*'
   

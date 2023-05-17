@@ -1,0 +1,6 @@
+framework module Pods_GHQuotationModule_Tests {
+  umbrella header "Pods-GHQuotationModule_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
